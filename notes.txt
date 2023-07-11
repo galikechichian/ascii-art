@@ -1,0 +1,11 @@
+  get user input from line: longest possible line is 
+ 	RECTANGLE 1000,1000 1000,1000 -- 30 chars
+	
+	POSSIBLE COMMANDS: 
+		- GRID		x y
+		- CHAR		c
+		- RECTANGLE	a,b c,d
+		- LINE		a.b c.d
+		- CIRCLE	x,y r
+		- END
+		- DISPLAY
