@@ -1,7 +1,7 @@
 # ascii-art
 This is a command line ascii art game written in C :) 
 
-POSSIBLE COMMANDS: 
+### Possible commands: 
 ```
 GRID		  x y        -- grid size - 2 integers
 CHAR		  c          -- pen - single character
