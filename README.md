@@ -1,5 +1,5 @@
 # ascii-art
-This is a command line ascii art game written in C :) 
+This is a command line tool, so make sure to compile and run **asciidraw.c** to start creating.
 
 ### Possible commands: 
 ```
